@@ -1,7 +1,9 @@
 # EX09 Implementation of Univariate Linear Regression
 
 NAME:RAMYA.P
+
 REGISTER NUMBER:212223240137
+
 DEPARTMENT:AIML
 
 ## Aim:
